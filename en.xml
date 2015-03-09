@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xsl" type="text/xsl"?>
+<!DOCTYPE racine [
+<!ENTITY nbsp "&#32;">
+]>
+<cv>
+
+	<presentation name="">
+	
+		<title>Clément Desmidt - Web/Developer/Designer</title>
+		<naissance name="Birth Date:">1982/03/15</naissance>
+		<sites>
+			<site name="Website">http://shikiryu.com/</site>
+			<site name="Portfolio">http://portfolio.shikiryu.com/</site>
+			<site name="Dev Blog">http://shikiryu.com/devblog/en/</site>
+			<site name="Designer Blog">http://blog.shikiryu.com/</site>
+			<site name="Labs">http://labs.shikiryu.com/</site>
+		</sites>
+		<langues name="Languages">
+			<langue name="French">Mother Language</langue>
+			<langue name="English">Fluent</langue>
+		</langues>
+		<telechargement name="Download:">
+			<fichier name="in PDF format" class="pdf">http://cv.shikiryu.com/clementdesmidt-en.pdf</fichier>
+			<fichier name="in Word's one" class="word">http://cv.shikiryu.com/clementdesmidt-en.doc</fichier>
+			<ou>or</ou>
+		</telechargement>
+		
+	</presentation>
+	
+	<competences name="Skills:">
+	
+		<competence name="Technical:" class="tech">
+			<detail><![CDATA[ <strong>Conception : </strong> UML / Merise / Rough / Design Patterns ]]></detail>
+			<detail><![CDATA[ <strong>Softwares : </strong> Eclipse / Suite Adobe / MySQL Workbench / Putty / FileZilla / NetBeans ]]></detail>
+			<detail><![CDATA[ <strong>Organisation : </strong> GANTT ]]></detail>
+			<detail><![CDATA[ <strong>Framework : </strong> jQuery, Zend, raphaelJS, Processing ]]></detail>
+		</competence>
+		
+		<competence name="Dev:" class="dev">
+			<detail><![CDATA[ <strong>XHTML/CSS / JavaScript/AJAX / PHP / MySQL</strong> ]]></detail>
+			<detail>WebService / XML (examples in the lab)</detail>
+			<detail>Java / Java Web / Oracle</detail>
+			<detail><![CDATA[ <strong>ADOBE Suite mastered</strong>, Maya (newbie) ]]></detail>
+			<detail>Network knowledge</detail>
+			<detail>Security knowledge</detail>
+			<detail>Can use Mac, Windows et Linux (Ubuntu)</detail>
+			<detail>Already used CMS (Drupal, Wordpress, etc.)</detail>
+		</competence>
+		
+		<competence name="Relationnal:" class="relation">
+			<detail><![CDATA[ Client needs <strong>analysis</strong> ]]></detail>
+			<detail><![CDATA[ <strong>Specifications</strong> writing ]]></detail>
+			<detail>Oral presentation for project validation</detail>
+			<detail><![CDATA[ Technical and organizational <strong>advises</strong> ]]></detail>
+			<detail>Developper and User formation</detail>
+		</competence>
+		
+		<competence name="Organisationnal:" class="organisation">
+			<detail>Computer project management</detail>
+			<detail>Planification</detail>
+			<detail>Procedures</detail>
+			<detail>Dashboard</detail>
+			<detail>Technical procedures redaction</detail>
+			<detail></detail>
+		</competence>	
+	
+	</competences>
+
+	<experiences name="Professionnal Experiences">
+	
+		<experience>
+			<date>May 2014 to now</date>
+			<lieu>BNP Paribas via Ibéla</lieu>
+			<lien></lien>
+			<titre>JavaScript developer</titre>
+			<type>C.D.I.</type>
+			<missions>
+				<mission>JS framework upgrade maintenance</mission>
+				<mission>Quality code control</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>April 2012 to april 2014</date>
+			<lieu>Banque de France via Ibéla</lieu>
+			<lien>http://webstat.banque-france.fr/en/</lien>
+			<titre>Java/J2EE developer</titre>
+			<type>C.D.I.</type>
+			<missions>
+				<mission>ECB software upgrade maintenance</mission>
+				<mission>BDF software upgrade maintenance</mission>
+				<mission>BDF Backoffice upgrade maintenance</mission>
+				<mission>Self-education : J2EE, struts, spring, hibernate</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>January 2011 to march 2012</date>
+			<lieu>Ibéla</lieu>
+			<lien></lien>
+			<titre>PHP developer / ergonomist</titre>
+			<type>C.D.I.</type>
+			<missions>
+				<mission>SSII back office developement</mission>
+				<mission>Design and ergonomy update</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From June 2010 to december 2011</date>
+			<lieu>Telergos via Ibéla</lieu>
+			<lien>http://www.telergos-assurance.com/</lien>
+			<titre>PHP Developer</titre>
+			<type>C.D.I</type>
+			<missions>
+				<mission>Interface development</mission>
+				<mission>Insurance's contracts solution development</mission>
+				<mission>PHP/MySQL Applications development</mission>
+				<mission>Application support in PHP and Java</mission>
+				<mission>Java batches development</mission>
+				<mission>WebService's creation for price setting</mission>
+				<mission>Code quality's inspector</mission>
+				<mission>Communication and  formation for next developpers</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From february 2010 to june 2010</date>
+			<lieu>C3E</lieu>
+			<lien>http://www.c3e-asso.org/</lien>
+			<titre>Web and Mobile OOP Developer</titre>
+			<type>Formation</type>
+			<missions>
+				<mission>OOP Development</mission>
+				<mission>Project Management skills upgraded</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From october 2007 to november 2009</date>
+			<lieu>Message Business</lieu>
+			<lien>http://www.message-business.com/</lien>
+			<titre>In charge of web and emailing production, Project and e-marketing campaign leader</titre>
+			<type>C.D.I</type>
+			<missions>
+				<mission>Websites and emailings creation and integration</mission>
+				<mission>Blogs creation and integration (in PHP and ASP)</mission>
+				<mission>Website content management with automatisation for referencing</mission>
+				<mission>Little PHP application development</mission>
+				<mission>Video, jingle and intro creation</mission>
+				<mission>E-marketing campaign management</mission>
+				<mission>E-marketing platform support</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From february to july 2007</date>
+			<lieu>Opendisc</lieu>
+			<lien>http://www.opendisc.net/</lien>
+			<titre>Web project leader</titre>
+			<type>Mission</type>
+			<missions>
+				<mission>Mini Website and emailing creation / integration</mission>
+				<mission>Direct relation with big music companies</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From july to august 2006</date>
+			<lieu>MK2</lieu>
+			<lien>http://www.mk2.com/</lien>
+			<titre>Webmaster</titre>
+			<type>Mission</type>
+			<missions>
+				<mission>Mini Website and emailing creation / integration</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From june to july 2006</date>
+			<lieu>ilestunefois</lieu>
+			<lien>http://www.shikiryu.com/ilestunefois/</lien>
+			<titre>Webmaster</titre>
+			<type>Mission + Freelance</type>
+			<missions>
+				<mission>Website creation and referencing setup</mission>
+				<mission>Updates as a freelancer</mission>
+			</missions>
+		</experience>
+		
+		<experience>
+			<date>From june to july 2005</date>
+			<lieu>Imprimerie Brard</lieu>
+			<lien></lien>
+			<titre>DTP in printing </titre>
+			<type>Mission</type>
+			<missions>
+				<mission>Page settings and impression preparation</mission>
+			</missions>
+		</experience>
+	
+	</experiences>
+
+	<formations name="Formation">
+		
+		<formation>
+			<date>2004-2007</date>
+			<lieu>ECV</lieu>
+			<lien>http://www.ecv.fr</lien>
+			<titre name="Diploma:">Concepteur en communication visuelle option Nouveaux Médias (BAC+4)</titre>
+		</formation>
+
+		<formation>
+			<date>2003-2004</date>
+			<lieu>ATEP</lieu>
+			<lien>http://www.atep.fr</lien>
+			<titre name="Goal :">Prépa artistique</titre>
+		</formation>
+		
+		<formation>
+			<date>2000-2002</date>
+			<lieu>Université de Cergy (95)</lieu>
+			<lien></lien>
+			<titre name="Diploma:"><![CDATA[ DEUG <abbr title="Mathématiques informatiques appliqués aux sciences">MIAS</abbr> ]]></titre>
+		</formation>
+		
+		<formation>
+			<date>2000</date>
+			<lieu>Lycée Camille Pissaro – Pontoise (95)</lieu>
+			<lien></lien>
+			<titre name="Diploma:"><![CDATA[ <abbr title="Baccalauréat">BAC</abbr> Scientifique, Spécialité Mathématique ]]></titre>
+		</formation>
+		
+	</formations>
+	
+	<contacts>
+	
+		<contact name="Where you can find me">
+			<lien class="DeviantArt tips" title="Deviantart" texte="">http://shikiryu.deviantart.com</lien>			
+			<lien class="Tumblr tips" title="Tumblr" texte="">http://chouchen.tumblr.com</lien>			
+			<lien class="LinkedIn tips" title="Linked In" texte="">http://www.linkedin.com/in/shikiryu</lien>
+			<lien class="Viadeo tips" title="Viadeo" texte="">http://www.viadeo.com/fr/profile/clement.desmidt</lien>			
+		</contact>
+		
+		<contact name="Contact">
+			<lien class="bymail" title="" texte="Clic here to send me an email and say hello !">http://shikiryu.com/contact/</lien>			
+		</contact>
+	
+	</contacts>
+	
+</cv>
