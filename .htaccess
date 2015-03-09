@@ -159,7 +159,7 @@ FileETag None
 <IfModule mod_rewrite.c>
 Options +FollowSymLinks
 RewriteEngine On
-RedirectPermanent  /index.php  /fr.xml
+RedirectPermanent  /index.html  /fr.xml
 </IfModule>
 
 
