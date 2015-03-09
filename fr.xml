@@ -28,24 +28,24 @@
 	<competences name="Compétences :">
 		<competence name="Technique :" class="tech" direction="left">
 			<detail>
-				<![CDATA[ <strong>Conceptuelle : </strong> UML / Merise / Rough / Design Patterns ]]></detail>
+				<![CDATA[ <strong>Conceptuelle : </strong> UML / Merise / Design Patterns ]]></detail>
 			<detail>
-				<![CDATA[ <strong>Logiciels : </strong> Eclipse / Suite Adobe / MySQL Workbench / Putty / FileZilla / NetBeans ]]></detail>
+				<![CDATA[ <strong>Logiciels : </strong> Eclipse / Suite Adobe / MySQL Workbench / Putty / FileZilla / PhpStorm ]]></detail>
 			<detail>
 				<![CDATA[ <strong>Organisation : </strong> GANTT ]]></detail>
 			<detail>
-				<![CDATA[ <strong>Framework : </strong> jQuery, Zend, raphaelJS, Processing ]]></detail>
+				<![CDATA[ <strong>Framework : </strong> jQuery, Zend, raphaelJS, Processing, Spring, Backbone ]]></detail>
 		</competence>
 		<competence name="Développement :" class="dev" direction="left">
 			<detail>
-				<![CDATA[ <strong>XHTML/CSS / JavaScript/AJAX / PHP / MySQL</strong> ]]></detail>
+				<![CDATA[ <strong>XHTML/CSS / JavaScript/AJAX / PHP </strong> ]]></detail>
 			<detail>WebService / XML (exemples dans le lab)</detail>
-			<detail>Java / Java Web / Oracle</detail>
+			<detail>Elastic search / Oracle / MySQL</detail>
 			<detail>
 				<![CDATA[ <strong>Suite ADOBE maîtrisée</strong>, Maya (Débutant) ]]></detail>
 			<detail>Connaissance réseau</detail>
 			<detail>Connaissance des principes de sécurité</detail>
-			<detail>Connaissance Mac, Windows et Linux (Ubuntu)</detail>
+			<detail>Connaissance Windows et Linux (Ubuntu)</detail>
 			<detail>Utilisation de CMS (Drupal, Wordpress, etc.)</detail>
 		</competence>
 		<competence name="Relationnel :" class="relation" direction="right">
@@ -71,7 +71,18 @@
 	</competences>
 	<experiences name="Expériences Professionnelles">
 		<experience>
-			<date>mai 2014 à maintenant</date>
+			<date>janvier 2015 à maintenant</date>
+			<lieu>Wamigo</lieu>
+			<lien>https://www.wamigo.com/</lien>
+			<titre>Développeur Fullstack</titre>
+			<type>C.D.I.</type>
+			<missions>
+				<mission>Maintenance et évolution de l'application</mission>
+				<mission>Force de proposition</mission>
+			</missions>
+		</experience>
+		<experience>
+			<date>mai 2014 à décembre 2014</date>
 			<lieu>BNP Paribas via Ibéla</lieu>
 			<lien></lien>
 			<titre>Développeur JavaScript</titre>

@@ -31,16 +31,16 @@
 	<competences name="Skills:">
 	
 		<competence name="Technical:" class="tech">
-			<detail><![CDATA[ <strong>Conception : </strong> UML / Merise / Rough / Design Patterns ]]></detail>
-			<detail><![CDATA[ <strong>Softwares : </strong> Eclipse / Suite Adobe / MySQL Workbench / Putty / FileZilla / NetBeans ]]></detail>
+			<detail><![CDATA[ <strong>Conception : </strong> UML / Merise / Design Patterns ]]></detail>
+			<detail><![CDATA[ <strong>Softwares : </strong> Eclipse / Suite Adobe / MySQL Workbench / Putty / FileZilla / PhpStorm ]]></detail>
 			<detail><![CDATA[ <strong>Organisation : </strong> GANTT ]]></detail>
-			<detail><![CDATA[ <strong>Framework : </strong> jQuery, Zend, raphaelJS, Processing ]]></detail>
+			<detail><![CDATA[ <strong>Framework : </strong> jQuery, Zend, raphaelJS, Processing, Spring, Backbone ]]></detail>
 		</competence>
 		
 		<competence name="Dev:" class="dev">
-			<detail><![CDATA[ <strong>XHTML/CSS / JavaScript/AJAX / PHP / MySQL</strong> ]]></detail>
+			<detail><![CDATA[ <strong>XHTML/CSS / JavaScript/AJAX / PHP / </strong> ]]></detail>
 			<detail>WebService / XML (examples in the lab)</detail>
-			<detail>Java / Java Web / Oracle</detail>
+			<detail>Elastic search / MySQL / Oracle</detail>
 			<detail><![CDATA[ <strong>ADOBE Suite mastered</strong>, Maya (newbie) ]]></detail>
 			<detail>Network knowledge</detail>
 			<detail>Security knowledge</detail>
@@ -68,13 +68,23 @@
 	</competences>
 
 	<experiences name="Professionnal Experiences">
-	
 		<experience>
-			<date>May 2014 to now</date>
+			<date>january 2015 to now</date>
+			<lieu>Wamigo</lieu>
+			<lien>https://www.wamigo.com/</lien>
+			<titre>Fullstack Developer</titre>
+			<type>Fulltime job</type>
+			<missions>
+				<mission>Application Maintenance and Evolution</mission>
+				<mission>Proactive and source of proposals</mission>
+			</missions>
+		</experience>
+		<experience>
+			<date>May 2014 to december 2014</date>
 			<lieu>BNP Paribas via Ibéla</lieu>
 			<lien></lien>
 			<titre>JavaScript developer</titre>
-			<type>C.D.I.</type>
+			<type>Fulltime job</type>
 			<missions>
 				<mission>JS framework upgrade maintenance</mission>
 				<mission>Quality code control</mission>
@@ -86,7 +96,7 @@
 			<lieu>Banque de France via Ibéla</lieu>
 			<lien>http://webstat.banque-france.fr/en/</lien>
 			<titre>Java/J2EE developer</titre>
-			<type>C.D.I.</type>
+			<type>Fulltime job</type>
 			<missions>
 				<mission>ECB software upgrade maintenance</mission>
 				<mission>BDF software upgrade maintenance</mission>
@@ -100,7 +110,7 @@
 			<lieu>Ibéla</lieu>
 			<lien></lien>
 			<titre>PHP developer / ergonomist</titre>
-			<type>C.D.I.</type>
+			<type>Fulltime job</type>
 			<missions>
 				<mission>SSII back office developement</mission>
 				<mission>Design and ergonomy update</mission>
