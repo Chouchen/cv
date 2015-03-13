@@ -232,6 +232,25 @@
 				<![CDATA[ <abbr title="Baccalauréat">BAC</abbr> Scientifique, Spécialité Mathématique ]]></titre>
 		</formation>
 	</formations>
+	<hobbies name="Hobbies">
+		<hobby name="dessin">
+			<link></link>
+			<link></link>
+			<link></link>
+		</hobby>
+		<hobby name="jeux vidéo">
+			<link></link>
+		</hobby>
+		<hobby name="badminton">
+			<link></link>
+		</hobby>
+		<hobby name="open source">
+			<link></link>
+		</hobby>
+		<hobby name="confidentialité des données">
+			<link></link>
+		</hobby>
+	</hobbies>
 	<contacts>
 		<contact name="Vous pouvez me trouver">
 			<lien class="DeviantArt tips" title="Deviantart" texte="">http://shikiryu.deviantart.com</lien>
