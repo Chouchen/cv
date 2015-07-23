@@ -69,7 +69,18 @@
 
 	<experiences name="Professionnal Experiences">
 		<experience>
-			<date>january 2015 to now</date>
+			<date>avril 2015 to now</date>
+			<lieu>Alteo</lieu>
+			<lien>http://www.alteo.fr/</lien>
+			<titre>Web Developer</titre>
+			<type>Fulltime job</type>
+			<missions>
+				<mission>Application Maintenance and Evolution</mission>
+				<mission>E-commerce website creation from beginning to end (conception, realisation, following)</mission>
+			</missions>
+		</experience>
+		<experience>
+			<date>january to march 2015</date>
 			<lieu>Wamigo</lieu>
 			<lien>https://www.wamigo.com/</lien>
 			<titre>Fullstack Developer</titre>

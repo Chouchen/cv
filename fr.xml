@@ -71,7 +71,20 @@
 	</competences>
 	<experiences name="Expériences Professionnelles">
 		<experience>
-			<date>janvier 2015 à maintenant</date>
+			<date>avril 2015 à maintenant</date>
+			<lieu>Alteo</lieu>
+			<lien>http://www.alteo.fr/</lien>
+			<titre>Développeur Web</titre>
+			<type>C.D.I.</type>
+			<missions>
+				<mission>Maintenance et évolution du framework interne</mission>
+				<mission>Création de sites e-commerce de A à Z (conception, réalisation, suivi)</mission>
+				<mission>Mise en place de solution pour différents marketplaces</mission>
+				<mission>Mise en place de solution pour différents flux de données</mission>
+			</missions>
+		</experience>
+		<experience>
+			<date>janvier 2015 à mars 2015</date>
 			<lieu>Wamigo</lieu>
 			<lien>https://www.wamigo.com/</lien>
 			<titre>Développeur Fullstack</titre>
