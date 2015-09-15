@@ -81,6 +81,7 @@
 				<mission>Création de sites e-commerce de A à Z (conception, réalisation, suivi)</mission>
 				<mission>Mise en place de solution pour différents marketplaces</mission>
 				<mission>Mise en place de solution pour différents flux de données</mission>
+				<mission>Gestion d'une interface avec l'ERP NAVISION</mission>
 			</missions>
 		</experience>
 		<experience>
@@ -246,22 +247,19 @@
 		</formation>
 	</formations>
 	<hobbies name="Hobbies">
-		<hobby name="dessin">
+		<hobby name="dessin et photo">
 			<link></link>
-			<link></link>
-			<link></link>
+			<link>https://www.flickr.com/photos/shikiryu/</link>
+			<link>http://shikiryu.deviantart.com/</link>
 		</hobby>
 		<hobby name="jeux vidéo">
-			<link></link>
-		</hobby>
-		<hobby name="badminton">
-			<link></link>
+			<link>http://steamcommunity.com/id/chouchen/</link>
 		</hobby>
 		<hobby name="open source">
-			<link></link>
+			<link>https://github.com/Chouchen</link>
 		</hobby>
 		<hobby name="confidentialité des données">
-			<link></link>
+			<link>http://clement.desmidt.fr</link>
 		</hobby>
 	</hobbies>
 	<contacts>
